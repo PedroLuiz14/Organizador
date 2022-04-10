@@ -2,7 +2,7 @@ import os
 import shutil
 
 nolvl = "Livro "
-caminho = r'C:\Users\Pedro\Music\teste'
+caminho = r'C:\Users\xxxxx' # Aqui é o caminho do diretório onde vai ser organizado o(s) arquivo(s).
 
 arquivos = []
 for arquivo in os.listdir(caminho):
